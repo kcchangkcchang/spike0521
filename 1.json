@@ -1,5 +1,22 @@
 {
-    "message": "Thank you for cv!",
-    "bottonTxt": "詳細を見る",
-    "linkcode": "https://dev-t.webridge.net/click/?promotion_id=34&publisher_media_id=35&manuscript_id=26"
+  "displayTime": 1000,
+  "contents": {
+    "cvMessage": "お申し込みありがとうございます！",
+    "imagePath": "http://localhost:8080/mock/img/mock_img.png",
+    "title": "Mock TV",
+    "detailMessage": "【WithRock TV】で人気ドラマ、注目の新着ドラマが見放題。今なら入会から3ヶ月間のフリートライアル！",
+    "leaveText": "いいえ、結構です"
+  },
+  "privacyPolicy": {
+    "text": "プライバシーポリシー",
+    "url": "https://example.com/privacy"
+  },
+  "poweredBy": {
+    "text": "Webridge",
+    "url": "https://webridge.example.com"
+  },
+  "cta": {
+    "text": "今すぐ購入",
+    "url": "https://google.com"
+  }
 }
