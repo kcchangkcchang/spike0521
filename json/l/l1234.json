@@ -1,0 +1,22 @@
+{
+  "displayTime": 1000,
+  "contents": {
+    "thxMessage": "お申し込みありがとうございます！",
+    "imagePath": "http://localhost:8080/mock/img/mock_img.png",
+    "promotionTitle": "Mock TV",
+    "promotionMessage": "【WithRock TV】で人気ドラマ、注目の新着ドラマが見放題。今なら入会から3ヶ月間のフリートライアル！",
+    "leaveText": "いいえ、結構です"
+  },
+  "privacyPolicy": {
+    "text": "プライバシーポリシー",
+    "url": "https://example.com/privacy"
+  },
+  "poweredBy": {
+    "text": "afb",
+    "url": "https://afb.example.com"
+  },
+  "cta": {
+    "text": "今すぐ購入",
+    "url": "https://google.com"
+  }
+}
