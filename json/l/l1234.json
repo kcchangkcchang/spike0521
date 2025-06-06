@@ -2,9 +2,9 @@
   "displayTime": 1000,
   "contents": {
     "thxMessage": "お申し込みありがとうございます！",
-    "imagePath": "http://localhost:8080/mock/img/mock_img.png",
+    "imagePath": "https://picsum.photos/250/250",
     "promotionTitle": "Mock TV",
-    "promotionMessage": "【WithRock TV】で人気ドラマ、注目の新着ドラマが見放題。今なら入会から3ヶ月間のフリートライアル！",
+    "promotionMessage": "From local!【WithRock TV】で人気ドラマ、注目の新着ドラマが見放題。今なら入会から3ヶ月間のフリートライアル！",
     "leaveText": "いいえ、結構です"
   },
   "privacyPolicy": {
